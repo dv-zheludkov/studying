@@ -765,6 +765,9 @@ line-height: normal;
     padding-left: 16px;
     padding-right: 16px;
   }
+  .promo {
+    justify-content: center;
+  }
   .promo__info {
     margin-top: 148px;
     margin-bottom: 148px;
